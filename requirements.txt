@@ -8,3 +8,4 @@ ipywidgets
 IPython
 scipy
 ipyfilechooser
+conda-pack
